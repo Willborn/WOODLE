@@ -1,5 +1,6 @@
 Get "Food"
 from "Mensa"
 if "Time"="12:15"
+or earlier I am hungry
 else
 "be hungry"
