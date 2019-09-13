@@ -2,7 +2,7 @@
   margin:0px;
   background-image:none;
   position:relative;
-  left:-276px;
+  left:-311px;
   width:304px;
   margin-left:auto;
   margin-right:auto;
@@ -45,8 +45,8 @@
 #u15 {
   border-width:0px;
   position:absolute;
-  left:276px;
-  top:37px;
+  left:311px;
+  top:38px;
   width:304px;
   height:359px;
   display:flex;
@@ -75,8 +75,8 @@
 #u16 {
   border-width:0px;
   position:absolute;
-  left:276px;
-  top:366px;
+  left:311px;
+  top:367px;
   width:300px;
   height:1px;
   display:flex;
@@ -99,7 +99,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:64px;
+  width:72px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -115,9 +115,9 @@
 #u17 {
   border-width:0px;
   position:absolute;
-  left:383px;
-  top:53px;
-  width:64px;
+  left:418px;
+  top:50px;
+  width:72px;
   height:21px;
   display:flex;
   font-family:'Arial Fett', 'Arial Standard', 'Arial';
@@ -147,8 +147,8 @@
 #u18 {
   border-width:0px;
   position:absolute;
-  left:334px;
-  top:87px;
+  left:369px;
+  top:75px;
   width:163px;
   height:197px;
   display:flex;
@@ -177,8 +177,8 @@
 #u19 {
   border-width:0px;
   position:absolute;
-  left:426px;
-  top:191px;
+  left:476px;
+  top:174px;
   width:126px;
   height:115px;
   display:flex;
@@ -214,8 +214,8 @@
 #u20 {
   border-width:0px;
   position:absolute;
-  left:345px;
-  top:313px;
+  left:380px;
+  top:314px;
   width:140px;
   height:40px;
   display:flex;
@@ -243,8 +243,8 @@
 #u21 {
   border-width:0px;
   position:absolute;
-  left:284px;
-  top:372px;
+  left:319px;
+  top:373px;
   width:160px;
   height:16px;
   display:flex;
@@ -257,6 +257,42 @@
   width:100%;
 }
 #u21_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u22_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:122px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u22 {
+  border-width:0px;
+  position:absolute;
+  left:386px;
+  top:288px;
+  width:122px;
+  height:16px;
+  display:flex;
+}
+#u22 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u22_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
