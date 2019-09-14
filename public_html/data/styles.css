@@ -76,6 +76,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .droplist {
   color:#000000;
   text-align:left;
@@ -87,6 +91,11 @@
 .flow_shape {
 }
 .table_cell {
+}
+.connector {
+}
+.sticky_2 {
+  text-align:left;
 }
 .menu_item {
 }
