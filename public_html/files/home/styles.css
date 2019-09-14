@@ -379,9 +379,9 @@
   width:55px;
   height:48px;
   background:inherit;
-  background-color:rgba(255, 255, 255, 1);
+  background-color:rgba(230, 230, 230, 1);
   box-sizing:border-box;
-  border-width:1px;
+  border-width:2px;
   border-style:solid;
   border-color:rgba(121, 121, 121, 1);
   border-radius:5px;
